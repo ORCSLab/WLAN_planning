@@ -1,4 +1,4 @@
-# WLAN_planning
+# WLAN planning files
 Additional files for the paper "Hybrid Multicriteria Algorithms Applied to Structural Design of Wireless Local Area Networks". All dataset are stored in 8-digit ASCII format.
 
 RSS_AP_CL (2401x512) Receive Signal Strength estimated from the AP to clients, in dBm.
