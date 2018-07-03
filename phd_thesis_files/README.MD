@@ -1,4 +1,4 @@
-#WLAN planning files
+# WLAN planning files
 Additional files for the phd thesis "Planejamento Multiobjetivo de Redes Locais sem Fio Indoor Utilizando Algoritmos Híbridos". All dataset are stored in 8-digit ASCII format.
 
 AP_cand_positions: candidate points to instalation of APs
